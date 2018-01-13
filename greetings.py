@@ -1,3 +1,5 @@
 print 'Good afternoon'
 
-print 'Good evening'
+#function will reurn current day 
+
+print 'good evening'
